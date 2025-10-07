@@ -1,0 +1,7 @@
+DESKRIPSI SINGKAT PROJECT FUZZY LOGIC
+Proyek ini menunjukkan implementasi Sistem Pencahayaan Cerdas yang menyesuaikan tingkat kecerahan lampu berdasarkan tingkat cahaya lingkungan, waktu hari, dan status keberadaan orang di ruangan. Sistem ini menggunakan logika fuzzy untuk mensimulasikan proses pengambilan keputusan di dunia nyata.
+
+Fitur-Fitur Utama:
+- Penyesuaian Cahaya
+- Variabel Input
+- Sistem Logika Fuzzy
